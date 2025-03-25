@@ -10,3 +10,12 @@ body.background {
     background-color: black;
     text-align: center;
 }
+
+a.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+a.link:visited {
+    color: aquamarine !important;
+}
